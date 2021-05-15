@@ -100,6 +100,7 @@ https://jekyllrb.com/docs/step-by-step/01-setup/
 
 ## 四、总结
 1.一开始直接jekyll new整了一个自带的网站 后来询问过老师才知道要新建一个文件夹
+
 2.在git push时遇到了许多问题 
   通过搜索引擎找到了解决办法
   比如git clone
