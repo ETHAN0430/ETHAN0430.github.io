@@ -1,0 +1,32 @@
+I"]<p>Markdown 段落没有特殊的格式，直接编写文字就好，段落的换行是使用两个以上空格加上回车。</p>
+
+<p><em>斜体文本</em>
+<em>斜体文本</em>
+<strong>粗体文本</strong>
+<strong>粗体文本</strong>
+<strong><em>粗斜体文本</em></strong>
+<strong><em>粗斜体文本</em></strong></p>
+
+<hr />
+
+<hr />
+
+<hr />
+
+<hr />
+
+<hr />
+<p>RUNOOB.COM
+GOOGLE.COM
+<del>BAIDU.COM</del>
+<u>带下划线文本</u>
+创建脚注格式类似这样 <sup id="fnref:RUNOOB" role="doc-noteref"><a href="#fn:RUNOOB" class="footnote" rel="footnote">1</a></sup>。</p>
+
+<div class="footnotes" role="doc-endnotes">
+  <ol>
+    <li id="fn:RUNOOB" role="doc-endnote">
+      <p>菜鸟教程 – 学的不仅是技术，更是梦想！！！ <a href="#fnref:RUNOOB" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
+    </li>
+  </ol>
+</div>
+:ET
