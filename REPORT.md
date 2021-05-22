@@ -2,7 +2,7 @@
 
 网站的公网网址           
 
-暂无
+https://ethan0430.github.io/
 
 网站源代码Github仓库网址
 
